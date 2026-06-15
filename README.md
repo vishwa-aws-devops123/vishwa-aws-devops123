@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Vishwa Naik Rathod
 
-<!--
-**vishwa-aws-devops123/vishwa-aws-devops123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am building my skills in Linux Administration, AWS Cloud, Troubleshooting, and Automation. My goal is to grow in Linux Support, Technical Support, Production Support, and Cloud Operations roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Linux Administration
+* AWS Cloud Fundamentals
+* Bash Scripting
+* Troubleshooting
+* Technical Support
+
+## Current Focus
+
+* Linux Administration
+* AWS Cloud
+* Production Support
+* Automation with Bash
+
+## Featured Repositories
+
+* linux-admin-practice
+* linux-troubleshooting-guide
+* aws-cloud-practice
+* linux-bash-scripts
+
+## Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/vishwarathod-cloudops/
